@@ -1,2 +1,2 @@
-#omrails
-This is a simple app from omrails
+#omrails-devise
+This is a simple app from devise-omrails
