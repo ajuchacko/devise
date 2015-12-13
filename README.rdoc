@@ -1,0 +1,2 @@
+#omrails
+This is a simple app from omrails
